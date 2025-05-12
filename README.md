@@ -28,7 +28,7 @@ This project leverages PyTorch and 3D Morphable Models (3DMM) to reconstruct a h
 python convert_bfm09_data.py
 ```
 
-### Single Image Reconstruction
+### Face Reconstruction throw 3 views images
 
 To put your image as the follow tree
 
